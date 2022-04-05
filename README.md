@@ -1,4 +1,4 @@
-# on-nara-portal-admin
+# 서승현 프론트엔드 포트폴리오 admin
 
 ## Project setup
 ```
