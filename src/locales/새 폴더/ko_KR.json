@@ -1,0 +1,17 @@
+{
+  "tree": {
+    "main": "메인 로그아웃",
+    "mainLogin": "메인 로그인",
+    "openConference": "회의개설",
+    "progressConferenceList": "진행중 회의목록",
+    "completedConferenceList": "완료 회의목록",
+    "noticeList": "공지목록",
+    "change": "지역 변경"
+  },
+  "mainLogin": {
+    "mainLogin": "한글완료"
+  },
+  "about": {
+    "welcome": "한글완료"
+  }
+}

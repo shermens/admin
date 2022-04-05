@@ -1,0 +1,17 @@
+{
+  "tree": {
+    "main": "Main View(LogOut)",
+    "mainLogin": "Main View(LogIn)",
+    "openConference": "Open Conference",
+    "progressConferenceList": "Progress Conference List",
+    "completedConferenceList": "Completed Conference List",
+    "noticeList": "Notice List",
+    "change": "지역 변경"
+  },
+  "mainLogin": {
+    "mainLogin": "english complete"
+  },
+  "about": {
+    "welcome": "english complete"
+  }
+}
