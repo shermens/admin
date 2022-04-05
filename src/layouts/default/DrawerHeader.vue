@@ -7,8 +7,8 @@
       <v-list-item-title class="text-h6">
         시스템 관리
       </v-list-item-title>
-      <v-list-item-subtitle class="pl-4">
-        온-나라 회의
+      <v-list-item-subtitle class="pl-1">
+        OO 회의 서비스
       </v-list-item-subtitle>
     </v-list-item-content>
   </v-list-item>

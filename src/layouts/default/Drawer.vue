@@ -22,21 +22,21 @@
 
     <default-list :items="items" />
 
-<!--    <template #append>-->
-<!--      <div class="pa-4 text-center">-->
-<!--        <v-btn-->
-<!--          block-->
-<!--          class="font-weight-black"-->
-<!--          color="red"-->
-<!--          rounded-->
-<!--          large-->
-<!--          target="_blank"-->
-<!--          href="https://www.netpg.co.kr/web/"-->
-<!--        >-->
-<!--          넷피지시스템즈(주)-->
-<!--        </v-btn>-->
-<!--      </div>-->
-<!--    </template>-->
+    <template #append>
+      <div class="pa-4 text-center">
+        <v-btn
+          block
+          class="font-weight-black"
+          color="red"
+          rounded
+          large
+          target="_blank"
+          href="https://github.com/shermens/admin.git"
+        >
+          github에서 소스코드 확인
+        </v-btn>
+      </div>
+    </template>
   </v-navigation-drawer>
 </template>
 <script>
