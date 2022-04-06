@@ -35,6 +35,8 @@
         >
           github에서 소스코드 확인
         </v-btn>
+        <v-text style="color: white">
+          &#60;PC화면 최적화&#62;</v-text>
       </div>
     </template>
   </v-navigation-drawer>
