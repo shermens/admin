@@ -1,4 +1,4 @@
-# 서승현 프론트엔드 포트폴리오 admin
+# shermens 프론트엔드 포트폴리오 admin
 사용기술</br>
   "dependencies": {</br>
     "vue": "^2.6.11",</br>
