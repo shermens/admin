@@ -1,4 +1,4 @@
-# shermens 프론트엔드 포트폴리오 admin
+# shermens's Vue.js Front-End Admin Pages
 사용기술</br>
   "dependencies": {</br>
     "vue": "^2.6.11",</br>
