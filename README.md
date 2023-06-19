@@ -1,5 +1,5 @@
 # shermens's Vue.js Front-End Admin Pages
-사용기술</br>
+使用技術</br>
   "dependencies": {</br>
     "vue": "^2.6.11",</br>
     "vue-i18n": "^8.26.3",</br>
